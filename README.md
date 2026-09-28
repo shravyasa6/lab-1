@@ -75,3 +75,28 @@ The sequential execution time is used as the baseline for calculating the speedu
 <img src="https://raw.githubusercontent.com/shravyasa6/lab-1/main/open%20mp.jpeg" alt="OpenMP Execution" width="800">
 
 **Figure 2:** OpenMP matrix multiplication execution using 8 threads.
+## 5. Performance Visualizations
+
+### Figure 1: Sequential Execution
+
+<img src="https://raw.githubusercontent.com/MansiDanappanavar/lab1/main/lab1/sequential.JPG" alt="Sequential Execution" width="800">
+
+**Figure 1:** Sequential matrix multiplication execution output.
+
+### Figure 2: Sequential Verification
+
+<img src="https://raw.githubusercontent.com/MansiDanappanavar/lab1/main/lab1/sequential.PNG" alt="Sequential Verification" width="800">
+
+**Figure 2:** Verification of the Sequential matrix multiplication result.
+
+### Figure 3: OpenMP Execution
+
+<img src="https://raw.githubusercontent.com/MansiDanappanavar/lab1/main/lab1/openmp.JPG" alt="OpenMP Execution" width="800">
+
+**Figure 3:** OpenMP matrix multiplication execution using 8 threads.
+
+### Figure 4: OpenMP Verification
+
+<img src="https://raw.githubusercontent.com/MansiDanappanavar/lab1/main/lab1/openmp.PNG" alt="OpenMP Verification" width="800">
+
+**Figure 4:** Verification of the OpenMP matrix multiplication result.
