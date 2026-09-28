@@ -16,3 +16,9 @@ Result
 •⁠ ⁠Matrix Size: 4000 × 4000 •⁠ ⁠Verification: C[0][0] = 4000.00
 
 The sequential execution time is used as the baseline for calculating the speedup of parallel implementations.
+## 3. System Architecture & Source Code Matrix
+
+| Paradigm | Source File | Compute Units | Compiler / Toolchain |
+|---|---|---|---|
+| Sequential | `matrix_sequential.c` | 1 CPU Core | GCC `-O2` |
+| OpenMP | `matrix_openmp.c` | 8 CPU Threads | GCC `-O2 -fopenmp` |
